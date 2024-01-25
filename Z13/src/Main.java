@@ -26,7 +26,9 @@ class Objektni extends ProgramskiJezik{
 class Proceduralni extends ProgramskiJezik{
 
 }
-class Funkcionalni extends ProgramskiJezik{
+class
+
+Funkcionalni extends ProgramskiJezik{
 
 }
 public class Main {
